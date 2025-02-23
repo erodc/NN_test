@@ -1,4 +1,5 @@
 # VGGNet16-D
+# 代码结构可参考，运行有报错，以后有时间再查问题
 
 import torch
 import torch.nn as nn
